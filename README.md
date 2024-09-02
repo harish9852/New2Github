@@ -1,4 +1,4 @@
-# New2Githib
+# New2Github
 New to Open Source? Start Your Journey with This Beginner-Friendly Repository!
 
 # Your First Open Source Project
@@ -6,10 +6,6 @@ New to Open Source? Start Your Journey with This Beginner-Friendly Repository!
 - New to Open Source Projects & not sure where to begin?
 - Fret not!
 - Contribute to your very first open-source project in this beginner-friendly code repository!
-
-## Our Mission
-
-Our mission is to provide a safe space to support everyone on their journey to become software developers 👨‍💻
 
 ## How to contribute
 
