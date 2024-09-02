@@ -8,5 +8,5 @@ Add your **i) Github username** and **ii) GitHub profile link** to the **Contrib
 
 ## Contributors
 
-1. [Hrithik Raushan]( htts://github.com/hrithik-rauhan )
+1. [Hrithik Raushan](https://github.com/Hrithik-Raushan)
 
