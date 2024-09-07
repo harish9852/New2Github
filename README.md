@@ -1,5 +1,5 @@
 # New2Github
-New to Open Source? Start Your Journey with This Beginner-Friendly Repository!
+Are You New to Open Source? Want to Start Your Journey with This Beginner-Friendly Repository!
 
 # Your First Open Source Project
 
