@@ -10,3 +10,5 @@ Add your **i) Github username** and **ii) GitHub profile link** to the **Contrib
 
 1. [Hrithik Raushan](https://github.com/Hrithik-Raushan)
 
+2. [Adarsh Yadav](https://github.com/Adarsh55r)
+
